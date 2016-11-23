@@ -1,0 +1,3 @@
+INSERT INTO User (name,age,isAdmin,createDate) VALUES ("User Ivan",22,0,"2016-02-02 03:03:03"),("John John",22,0,"2016-02-02 03:03:03"),("Albert Albert",21,1,"2016-02-02 03:03:03"),("Andre Voska",52,1,"2016-02-02 03:03:03");
+INSERT INTO User (name,age,isAdmin,createDate) VALUES ("Kolya Ua Henry",55,0,"2016-02-02 03:03:03"),("Anna Anna",35,1,"2016-02-02 03:03:03"),("Yunna Alu",89,1,"2016-02-02 03:03:03"),("Omi Andre",34,1,"2016-02-02 03:03:03");
+INSERT INTO User (name,age,isAdmin,createDate) VALUES ("Ira Ira",29,1,"2016-02-02 03:03:03"),("John John",81,0,"2016-02-02 03:03:03"),("Albert Albert",24,1,"2016-02-02 03:03:03"),("Andre Stu",48,1,"2016-02-02 03:03:03");
